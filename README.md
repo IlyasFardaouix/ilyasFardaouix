@@ -90,17 +90,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyasFardaouix&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IlyasFardaouix&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasFardaouix&layout=compact&theme=radical)
-
----
-
 <p align="center">
   📍 Rabat, Morocco 🇲🇦 <br><br>
   ⭐ <i>Always open to collaboration, research ideas, and impactful AI projects.</i>
