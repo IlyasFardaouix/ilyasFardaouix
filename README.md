@@ -19,8 +19,7 @@
 - 🎓 AI & Data Science Engineering Student at **ENSAM Rabat**
 - 🤖 Passionate about **AI Engineering, LLMs, and Multimodal Systems**
 - 🧠 Curious about building **intelligent, scalable, and human-centered AI**
-- 🎯 Goal: Become a strong **AI Engineer / Research-Oriented Practitioner** while creating real-world impact
-
+  I am Highly motivated to **contribute to projects**, collaborate with teams, and learn through hands-on development.
 ---
 
 ## 🛠️ Tech Stack
@@ -34,7 +33,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### 🤖 LLMs & AI Systems
+###  LLMs & AI Systems
 <p>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
@@ -42,14 +41,14 @@
   <img src="https://img.shields.io/badge/Vector%20Databases-0A0A0A?style=for-the-badge" />
 </p>
 
-### 🖼️ Computer Vision
+###  Computer Vision
 <p>
   <img src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OCR-Tesseract-5A5A5A?style=for-the-badge" />
 </p>
 
-### 🌐 Backend & Systems
+###  Backend & Systems
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -62,7 +61,7 @@
 
 ## 📌 Featured Projects
 
-### 🤖 Orwin – Intelligent Conversational Agent
+###  Orwin – Intelligent Conversational Agent
 - Agentic **RAG system** using **LangGraph & ChromaDB**
 - Semantic intent analysis & personalized ranking
 - FastAPI backend for low-latency inference
@@ -91,11 +90,14 @@
 
 ---
 
+
 ## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IlyasFardaouix&show_icons=true&theme=radical&hide_border=true" />
-  <img width="43%" src="https://streak-stats.demolab.com?user=IlyasFardaouix&theme=radical&hide_border=true" />
-</p>
+
+![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyasFardaouix&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=IlyasFardaouix&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasFardaouix&layout=compact&theme=radical)
 
 ---
 
