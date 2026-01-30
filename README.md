@@ -15,10 +15,10 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 AI & Data Science Engineering Student at **ENSAM Rabat**
-- 🤖 Passionate about **AI Engineering, LLMs, and Multimodal Systems**
-- 🧠 Curious about building **intelligent, scalable, and human-centered AI**
+##  About Me
+-  AI & Data Science Engineering Student at **ENSAM Rabat**
+-  Passionate about **AI Engineering, LLMs, and Multimodal Systems**
+-  Curious about building **intelligent, scalable, and human-centered AI**
   I am Highly motivated to **contribute to projects**, collaborate with teams, and learn through hands-on development.
 ---
 
