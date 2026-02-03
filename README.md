@@ -8,6 +8,11 @@
   <a href="https://github.com/IlyasFardaouix"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IlyasFardaouix&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <div align="center">
   <h3>🎓 AI & Data Science Engineering Student @ ENSAM Rabat</h3>
   <p><i>Building intelligent, scalable, and human-centered AI systems.</i></p>
