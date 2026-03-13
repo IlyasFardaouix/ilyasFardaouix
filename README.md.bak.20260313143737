@@ -9,8 +9,6 @@ Welcome to my profile! I'm Ilyas Fardaoui, an AI and Data Science Engineering st
 ## Contact Information
 ----------------------
 
-### Social Media and Email
-
 You can find me on the following platforms:
 
 * [LinkedIn](https://www.linkedin.com/in/ilyas-fardaoui)
@@ -33,17 +31,12 @@ I'm a highly motivated individual with a passion for AI engineering, large langu
 
 My goal is to become a leading expert in AI engineering and contribute to the development of intelligent systems that positively impact society.
 
-## Technical Expertise
-----------------------
+## Tech Stack
+--------------
 
-### AI and Machine Learning
-
-#### Programming Languages
+### AI / Machine Learning
 
 * **Python**: A popular programming language for AI and ML.
-
-#### Libraries and Frameworks
-
 * **PyTorch**: A dynamic computation graph and automatic differentiation system.
 * **scikit-learn**: A machine learning library for Python.
 * **NumPy**: A library for efficient numerical computation.
@@ -51,27 +44,20 @@ My goal is to become a leading expert in AI engineering and contribute to the de
 
 ### Large Language Models & AI Systems
 
-#### Libraries and Frameworks
-
 * **LangChain**: A library for building large language models.
 * **FastAPI**: A modern, fast (high-performance), web framework for building APIs.
 * **ChromaDB**: A vector database for efficient storage and retrieval.
 * **Vector Databases**: A type of database optimized for vector-based queries.
 
-#### Computer Vision
+### Computer Vision
 
 * **CLIP**: A library for computer vision and image processing.
 * **CNNs**: A type of neural network for image classification and object detection.
 * **OCR (Tesseract)**: An optical character recognition engine.
 
-### Backend and Systems
-
-#### Programming Languages
+### Backend & Systems
 
 * **JavaScript**: A programming language for web development.
-
-#### Libraries and Frameworks
-
 * **Streamlit**: A library for building interactive web applications.
 * **Docker**: A containerization platform for efficient deployment.
 * **PostgreSQL**: A relational database management system.
@@ -116,9 +102,3 @@ My goal is to become a leading expert in AI engineering and contribute to the de
 ------------------------------
 
 I'm based in Rabat, Morocco, and I'm always open to collaboration, research ideas, and impactful AI projects. If you're interested in working together or have any questions, feel free to reach out to me at [ilyasfardaoui@gmail.com](mailto:ilyasfardaoui@gmail.com).
-
-### Let's Connect
-
-* [LinkedIn](https://www.linkedin.com/in/ilyas-fardaoui)
-* [GitHub](https://github.com/IlyasFardaouix)
-* [Email](mailto:ilyasfardaoui@gmail.com)
