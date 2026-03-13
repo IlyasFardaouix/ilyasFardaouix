@@ -23,40 +23,30 @@ You can find me on the following platforms:
 ### About Me
 -------------
 
-### Brief Overview
-
 I'm a highly motivated individual with a passion for AI engineering, large language models, and multimodal systems. I'm committed to contributing to projects, collaborating with teams, and learning through hands-on development.
-
-### Career Goals
-
-My goal is to become a leading expert in AI engineering and contribute to the development of intelligent systems that positively impact society.
 
 ### Tech Stack
 --------------
 
-### AI / Machine Learning
-
+#### AI / Machine Learning
 * **Python**: A popular programming language for AI and ML.
 * **PyTorch**: A dynamic computation graph and automatic differentiation system.
 * **scikit-learn**: A machine learning library for Python.
 * **NumPy**: A library for efficient numerical computation.
 * **Pandas**: A library for data manipulation and analysis.
 
-### Large Language Models & AI Systems
-
+#### LLMs & AI Systems
 * **LangChain**: A library for building large language models.
 * **FastAPI**: A modern, fast (high-performance), web framework for building APIs.
 * **ChromaDB**: A vector database for efficient storage and retrieval.
 * **Vector Databases**: A type of database optimized for vector-based queries.
 
-### Computer Vision
-
+#### Computer Vision
 * **CLIP**: A library for computer vision and image processing.
 * **CNNs**: A type of neural network for image classification and object detection.
 * **OCR (Tesseract)**: An optical character recognition engine.
 
-### Backend & Systems
-
+#### Backend & Systems
 * **JavaScript**: A programming language for web development.
 * **Streamlit**: A library for building interactive web applications.
 * **Docker**: A containerization platform for efficient deployment.
@@ -66,20 +56,17 @@ My goal is to become a leading expert in AI engineering and contribute to the de
 ### Featured Projects
 ---------------------
 
-### Orwin – Intelligent Conversational Agent
-
+#### Orwin – Intelligent Conversational Agent
 * Developed an agentic RAG system using LangGraph and ChromaDB.
 * Implemented semantic intent analysis and personalized ranking.
 * Built a FastAPI backend for low-latency inference.
 
-### Sepsis Early Detection
-
+#### Sepsis Early Detection
 * Created an ML pipeline using Gradient Boosting.
 * Engineered time-series features.
 * Achieved high performance on imbalanced clinical datasets.
 
-### Multimodal Semantic Search Engine
-
+#### Multimodal Semantic Search Engine
 * Developed a search engine using CLIP and OCR.
 * Implemented hybrid search: metadata and vector similarity.
 * Built an interactive dashboard with Streamlit.
@@ -87,14 +74,12 @@ My goal is to become a leading expert in AI engineering and contribute to the de
 ### Experience
 --------------
 
-### AI Engineering Intern – Ministry of Agriculture (MAPMDREF)
-
+#### AI Engineering Intern – Ministry of Agriculture (MAPMDREF)
 * Built a multimodal semantic search engine.
 * Developed OCR pipelines and vector-based retrieval.
 * Deployed exploration dashboards for large datasets.
 
-### Vice President – Fatal Error Club (ENSAM Rabat)
-
+#### Vice President – Fatal Error Club (ENSAM Rabat)
 * Led the technical roadmap.
 * Co-organized the CURSOR Meet-up (190+ participants).
 
