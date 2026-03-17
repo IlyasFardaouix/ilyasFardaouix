@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ilyas+Fardaoui!;AI+%26+LLM+Engineer;Building+Intelligent+Systems;" />
 </h1>
 
-<h3 align="center">AI & Data Science Engineering Student from Rabat, Morocco</h3>
+<h3 align="center">AI Engineer focused on LLM systems, applied ML, and multimodal search</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **agentic AI systems, RAG pipelines, and LLM-powered tools**
+ 🔭 I’m currently working on **agentic AI systems, RAG pipelines, and production-oriented LLM tools**
  
- 🌱 I’m currently learning **LangGraph, multimodal architectures, and autonomous agents**
+ 🌱 I’m currently learning **LangGraph, multimodal architectures, and robust agent workflows**
 
- 💬 Ask me about **LLMs, Agentic RAG, Computer Vision, or anything [here](https://github.com/IlyasFardaouix/ilyasFardaouix/issues)**
+ 💬 Ask me about **LLMs, Agentic RAG, Computer Vision, NLP pipelines, or anything [here](https://github.com/IlyasFardaouix/ilyasFardaouix/issues)**
 
- ⚡ Fun fact **I built a sepsis detection pipeline on clinical time-series data and I enjoy turning research ideas into usable systems**
+ ⚡ Fun fact **I enjoy turning research-heavy ideas into practical systems people can actually use**
 
  </div>
  
@@ -62,12 +62,12 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [**VisualIndexer**](https://github.com/IlyasFardaouix/VisualIndexer) | Multimodal semantic search engine that combines CLIP embeddings, OCR extraction, and similarity search for visual content discovery | Python · CLIP · OCR · Streamlit |
-| [**Sepsis-Detection**](https://github.com/IlyasFardaouix/Sepsis-Detection) | Early sepsis prediction pipeline using engineered clinical signals and gradient boosting models on imbalanced medical data | Python · scikit-learn · Pandas |
-| [**darija-dataset-builder**](https://github.com/IlyasFardaouix/darija-dataset-builder) | Multi-source pipeline for building large-scale Moroccan Darija NLP datasets with practical data cleaning and aggregation steps | Python · NLP · Data Engineering |
-| [**Reconnaissance-Faciale-Eigenfaces**](https://github.com/IlyasFardaouix/Reconnaissance-Faciale-Eigenfaces) | Access control system based on PCA / Eigenfaces for face recognition experiments and applied computer vision | Python · OpenCV · NumPy |
-| [**YouTube-Sentiment-Analysis**](https://github.com/IlyasFardaouix/YouTube-Sentiment-Analysis) | NLP project for analyzing sentiment in YouTube comments with a focus on practical text processing workflows | Python · NLP · Data Analysis |
-| [**GOLD-TRADING-AI**](https://github.com/IlyasFardaouix/GOLD-TRADING-AI) | Exploratory AI-driven trading project centered on market signals and prediction workflows for gold prices | Python · ML · Finance |
+| [**darija-dataset-builder**](https://github.com/IlyasFardaouix/darija-dataset-builder) | Data pipeline for building large-scale Moroccan Darija datasets from multiple sources with practical cleaning and aggregation steps | Python · NLP · Data Engineering |
+| [**VisualIndexer**](https://github.com/IlyasFardaouix/VisualIndexer) | Multimodal search system that combines CLIP embeddings, OCR extraction, and similarity search for visual content discovery | Python · CLIP · OCR · Streamlit |
+| [**Sepsis-Detection**](https://github.com/IlyasFardaouix/Sepsis-Detection) | Early sepsis prediction pipeline using engineered clinical signals and gradient boosting on imbalanced medical data | Python · scikit-learn · Pandas |
+| [**Reconnaissance-Faciale-Eigenfaces**](https://github.com/IlyasFardaouix/Reconnaissance-Faciale-Eigenfaces) | Face recognition and access control experiments based on PCA / Eigenfaces for applied computer vision | Python · OpenCV · NumPy |
+| [**GOLD-TRADING-AI**](https://github.com/IlyasFardaouix/GOLD-TRADING-AI) | Exploratory trading project focused on market signals, forecasting workflows, and AI-assisted financial analysis | Python · ML · Finance |
+| [**YouTube-Sentiment-Analysis**](https://github.com/IlyasFardaouix/YouTube-Sentiment-Analysis) | Sentiment analysis workflow for YouTube comments with practical text preprocessing and model experimentation | Python · NLP · Data Analysis |
 
 </div>
 
