@@ -5,13 +5,12 @@
 I am Ilyas Fardaoui, an AI Engineer and ENSAM Rabat student focused on building intelligent systems that solve real-world problems.
 I design and ship production-oriented AI workflows, including retrieval-augmented generation pipelines, multimodal search engines, and data-intensive NLP systems.
 My strongest edge is working on underrepresented language spaces, especially Darija and Arabic NLP, while bridging academic ideas with practical deployment constraints.
-I believe in turning research-heavy ideas into practical systems that teams can use, scale, and trust.
 
 ## Currently
 
-- 🔭 **Working on:** Agentic RAG pipelines with LangGraph and real-time multimodal retrieval systems
-- 🌱 **Learning:** Advanced agent workflows, tool-use patterns, and LLM evaluation frameworks
-- 🤝 **Open to:** AI engineering roles, research collaborations, and open-source contributions in Arabic/Darija NLP
+-  **Working on:** Agentic RAG pipelines with LangGraph and real-time multimodal retrieval systems
+-  **Learning:** Advanced agent workflows, tool-use patterns, and LLM evaluation frameworks
+-  **Open to:** AI engineering roles, research collaborations, and open-source contributions in Arabic/Darija NLP
 
 ## Tech Stack
 
