@@ -150,4 +150,4 @@ Arabic (native) · French (C1) · English (professional, B2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyas%20Fardaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyas-fardaoui-44081224a)
 [![Instagram](https://img.shields.io/badge/Instagram-@ilyasfardaoui-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilyasfardaoui)
 
-I'm always open to interesting collaborations, AI research projects and engineering roles. Don't hesitate to reach out!
+I'm always open to interesting collaborations and AI research projects. Don't hesitate to reach out!
